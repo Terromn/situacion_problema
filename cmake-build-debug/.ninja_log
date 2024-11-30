@@ -1,0 +1,23 @@
+# ninja log v6
+2	800	1732929870395713244	CMakeFiles/untitled2.dir/Product/Product.cpp.o	b591480a1d1e188e
+3	803	1732929870396470854	CMakeFiles/untitled2.dir/DogAcessories/DogAccessories.cpp.o	3a13469f2ea391f2
+2	804	1732929870395884865	CMakeFiles/untitled2.dir/DogFood/DogFood.cpp.o	334e1d3c0a14395d
+2	805	1732929870396021738	CMakeFiles/untitled2.dir/DogToys/DogToys.cpp.o	9572ef5f4a361825
+3	827	1732929870396883471	CMakeFiles/untitled2.dir/AdminSystem/AdminSystem.cpp.o	30041d1088818523
+9	517	1732929894311159746	CMakeFiles/untitled2.dir/UserSystem/UserSystem.cpp.o	808fa254ab27eac8
+13	633	1732929968261923070	CMakeFiles/untitled2.dir/UserSystem/UserSystem.cpp.o	808fa254ab27eac8
+12	633	1732929968260828360	CMakeFiles/untitled2.dir/main.cpp.o	bfda5e51d982827
+633	812	1732929968881802382	untitled2	271f9758d3d31f13
+8	617	1732930276624102882	CMakeFiles/untitled2.dir/main.cpp.o	bfda5e51d982827
+9	618	1732930276625356383	CMakeFiles/untitled2.dir/UserSystem/UserSystem.cpp.o	808fa254ab27eac8
+618	793	1732930277233572327	untitled2	271f9758d3d31f13
+8	666	1732930405714379825	CMakeFiles/untitled2.dir/UserSystem/UserSystem.cpp.o	808fa254ab27eac8
+666	842	1732930406371678587	untitled2	271f9758d3d31f13
+10	528	1732930634760989844	CMakeFiles/untitled2.dir/UserSystem/UserSystem.cpp.o	808fa254ab27eac8
+9	531	1732930634760825760	CMakeFiles/untitled2.dir/AdminSystem/AdminSystem.cpp.o	30041d1088818523
+9	808	1732930666213684179	CMakeFiles/untitled2.dir/main.cpp.o	bfda5e51d982827
+808	984	1732930667012317808	untitled2	271f9758d3d31f13
+10	856	1732931139183060316	CMakeFiles/untitled2.dir/AdminSystem/AdminSystem.cpp.o	30041d1088818523
+11	861	1732931139183229942	CMakeFiles/untitled2.dir/UserSystem/UserSystem.cpp.o	808fa254ab27eac8
+9	865	1732931139181831012	CMakeFiles/untitled2.dir/main.cpp.o	bfda5e51d982827
+865	1055	1732931140037210224	untitled2	271f9758d3d31f13
